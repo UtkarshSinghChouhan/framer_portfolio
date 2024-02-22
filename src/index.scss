@@ -1,0 +1,7 @@
+// body::-webkit-scrollbar {
+//   width: 0.5rem; /* Adjust as needed for your design */
+// }
+
+body::-webkit-scrollbar-thumb {
+  background-color: transparent; /* Hide the thumb */
+}
